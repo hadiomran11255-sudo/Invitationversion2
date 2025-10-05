@@ -24,7 +24,7 @@ export default function Home() {
 
         <p className="small-cap">THE WEDDING OF</p>
 
-        <h2 className="names">Ahlam &amp; Hadi</h2>
+        <h2 className="names">Samira &amp; Khodor</h2>
 
         <div className="rule"></div>
 
@@ -37,7 +37,6 @@ export default function Home() {
         </div>
 
         {/* keep as-is; you’ll swap with server data later */}
-        <p className="table">You’re Table is Number 5</p>
       </div>
     </section>
   );
